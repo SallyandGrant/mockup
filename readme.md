@@ -23,3 +23,7 @@ Other:
 
 6 As an administrator, I want to display how many are still available
 
+7 As an administrator, I want to include logos and brand information
+
+8 As an administrator, I want to include information about the company and service
+
