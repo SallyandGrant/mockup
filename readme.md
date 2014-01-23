@@ -10,16 +10,16 @@ MVP:
 
 4 As a visitor, I want to be able to order the product
 
-4 As an administrator, I want to be able to change the product and price
+5 As an administrator, I want to be able to change the product and price
 
-5 As an administrator, I want to have an age gate
+6 As an administrator, I want to have an age gate
 
 
 
 Other:
 
-9 As a visitor I want an order confirmation
+- As a visitor I want an order confirmation
 
-7 As an administrator, I want to include logos and brand information
+- As an administrator, I want to include logos and brand information
 
 
