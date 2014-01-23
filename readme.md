@@ -11,7 +11,7 @@ MVP:
 - As a visitor, I want to be able to schedule delivery.
 - As an administrator, I want to be able to change the product.
 - As an administrator I want to cut off sales after a certain number are sold
-- 8 As an administrator I want to control when I take orders
+- As an administrator I want to control when I take orders
   
   
   Other:
